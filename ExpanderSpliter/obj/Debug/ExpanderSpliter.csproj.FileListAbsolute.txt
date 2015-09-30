@@ -1,0 +1,14 @@
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\ExpanderSpliter\ExpanderSpliter\bin\Debug\ExpanderSpliter.exe.config
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\ExpanderSpliter\ExpanderSpliter\obj\Debug\ExpanderSpliter.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\ExpanderSpliter\ExpanderSpliter\obj\Debug\App.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\ExpanderSpliter\ExpanderSpliter\obj\Debug\ExpanderSpliter_MarkupCompile.cache
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\ExpanderSpliter\ExpanderSpliter\bin\Debug\ExpanderSpliter.exe
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\ExpanderSpliter\ExpanderSpliter\bin\Debug\ExpanderSpliter.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\ExpanderSpliter\ExpanderSpliter\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\ExpanderSpliter\ExpanderSpliter\obj\Debug\ExpanderSpliter_MarkupCompile.lref
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\ExpanderSpliter\ExpanderSpliter\obj\Debug\MainWindow.baml
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\ExpanderSpliter\ExpanderSpliter\obj\Debug\ExpanderSpliter.g.resources
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\ExpanderSpliter\ExpanderSpliter\obj\Debug\ExpanderSpliter.Properties.Resources.resources
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\ExpanderSpliter\ExpanderSpliter\obj\Debug\ExpanderSpliter.csproj.GenerateResource.Cache
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\ExpanderSpliter\ExpanderSpliter\obj\Debug\ExpanderSpliter.exe
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\ExpanderSpliter\ExpanderSpliter\obj\Debug\ExpanderSpliter.pdb

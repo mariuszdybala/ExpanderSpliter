@@ -1,0 +1,57 @@
+﻿<Window x:Class="ExpanderSpliter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExpanderSpliter"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+  
+            <ColumnDefinition Width="Auto"
+                              Name="column" />
+        </Grid.ColumnDefinitions>
+
+        <TextBox Grid.Column="0"
+                 HorizontalAlignment="Stretch"
+                 TextWrapping="Wrap"
+                 Text="TextBox"
+                 VerticalAlignment="Stretch"
+                 Background="Aqua" />
+
+        <Expander Grid.Column="2"
+                  ExpandDirection="Left"
+                  Background="LightBlue">
+            <TabControl FlowDirection="LeftToRight" TabStripPlacement="Top">
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="Images/images.jpg" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <Label Content="Content goes here..." />
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="Images/images_route.png" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <Label Content="Content goes here..." />
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="Images/images_area.jpg" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <Label Content="Content goes here..." />
+                </TabItem>
+            </TabControl>
+        </Expander>
+
+    </Grid>
+</Window>
